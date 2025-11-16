@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤡 WEATHER AI - FINAL PROJECT - CSI
 
-Description of the app ...
+This is a machine learning app weather.
 
 ## Demo App
 
